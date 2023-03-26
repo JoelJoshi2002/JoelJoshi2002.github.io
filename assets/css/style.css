@@ -5290,6 +5290,8 @@ kbd {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin: -10px;
+  width: 100%;
+  padding-left: 100px;
 }
 
 .cs-footer_social_btns a {
