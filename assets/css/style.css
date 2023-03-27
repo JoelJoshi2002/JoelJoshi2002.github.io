@@ -95,6 +95,7 @@ ul {
   margin: 0 0 25px 0;
   padding-left: 20px;
   list-style: square outside none;
+  font-size: 20px;
 }
 
 ol {
@@ -5291,7 +5292,7 @@ kbd {
   flex-wrap: wrap;
   margin: -10px;
   width: 100%;
-  padding-left: 100px;
+  flex-direction: row;
 }
 
 .cs-footer_social_btns a {
