@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@media (min-width: 768px) {
+  ion-icon {
+    display: none;
+  }
+}
